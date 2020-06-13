@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jumber.iml" filepath="$PROJECT_DIR$/Jumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJumperAndroid.iml" filepath="$PROJECT_DIR$/CursoJumperAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
